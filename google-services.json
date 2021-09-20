@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99073012200",
+    "project_id": "dexter-c399f",
+    "storage_bucket": "dexter-c399f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99073012200:android:b2f4ff98ee413c1748f45d",
+        "android_client_info": {
+          "package_name": "com.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99073012200-r1ujr0h9v8n0910csc39tluc0a3g975m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkv9vqYZU7NXUUCHxGUoyWYq1lFZ5ZqWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99073012200-r1ujr0h9v8n0910csc39tluc0a3g975m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
